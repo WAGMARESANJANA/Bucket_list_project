@@ -17,7 +17,7 @@ Clone this repo (or just download the files)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/bucket-list.git
+git clone https://github.com/WAGMARESANJANA/Bucket_list_project.git
 Open the index.html file in your browser.
 Start adding tasks and have fun checking things off! 🎉
 
